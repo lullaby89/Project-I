@@ -1,0 +1,24 @@
+body {
+	text-align: center;
+	background: url("http://payload116.cargocollective.com/1/8/282864/4631144/DSC_0174_900.jpg");
+	background-size: cover;
+	background-position: center;
+	color: white;
+	font-family: helvetica;
+}
+p {
+	font-size: 35px;
+}
+input {
+	border: 0;
+	padding: 10px;
+	font-size: 18px;
+}
+input[type="submit"] {
+	background: red;
+	color: white;
+}
+img {
+	border: 5px solid gray;
+	border-radius: 50px;
+}
