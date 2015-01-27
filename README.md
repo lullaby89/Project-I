@@ -1,0 +1,3 @@
+# project-i
+
+WEBPAGE: an introductory training project/course on the basics of designing a simple webpage using HTML and CSS...
