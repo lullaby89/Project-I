@@ -22,3 +22,17 @@ img {
 	border: 5px solid gray;
 	border-radius: 50px;
 }
+ul {
+	 padding: 10px;
+  	background: rgba(255,255,255,0.5);
+  	color: gray; 
+}
+li {
+	padding: 10px;
+  	background: rgba(255,255,255,0.5);
+  	color: gray; 
+}
+h3 {
+	font-size: 25px;
+	color: rgb((255,250,205));
+}
